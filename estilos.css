@@ -51,8 +51,8 @@ p{
     font: bold 140% monospace;
 }
 img{
-    width: 300px;
-    height: 300px;
+    width: 30%;
+    height: 30%;
     float: left;
     padding: 10px;
     border-style: solid;
@@ -65,8 +65,8 @@ ol li a{
 
 }
 video{
-    height: 500px;
-    width: 500px;
+    height: 70%;
+    width: 70%;
     border-style: solid;
     padding: 10px;
 }
