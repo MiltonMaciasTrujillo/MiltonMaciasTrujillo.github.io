@@ -1,0 +1,65 @@
+body{background-color: black;padding: 150px;font-family: Arial, Helvetica, sans-serif;}
+#Menu {
+    background-color: darkgreen;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    display: inline-block;
+}
+ul li a {
+    color: blanchedalmond;
+    text-decoration: none;
+    display: block;
+    padding: 10px 40px;
+}
+ul li a:hover{
+    background-color: lime;
+}
+header{
+    color: blanchedalmond;
+    font-size: 50px;
+    text-align: center;
+    font-weight: normal;
+    border-style: solid;
+    
+}
+h2{
+    color: blanchedalmond;
+    font-weight: normal;
+    font: bold 170% monospace;
+}
+h3{
+    color: blanchedalmond;
+    font-weight: normal;
+    font: bold 170% monospace;
+}
+p{
+    color: blanchedalmond;
+    text-align: justify;
+    font-style: oblique;
+    font: bold 140% monospace;
+}
+img{
+    width: 300px;
+    height: 300px;
+    float: left;
+    padding: 10px;
+    border-style: solid;
+}
+ol li a{
+    color: blanchedalmond;
+    text-decoration: none;
+    font-style: oblique;
+    font: bold 110% monospace;
+
+}
+video{
+    height: 500px;
+    width: 500px;
+    border-style: solid;
+    padding: 10px;
+}
