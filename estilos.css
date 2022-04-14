@@ -38,12 +38,14 @@ header{
 h2{
     color: blanchedalmond;
     font-weight: normal;
-    font: bold 195% monospace;
+    font: bold 200% monospace;
+    text-decoration: underline;
 }
 h3{
     color: blanchedalmond;
     font-weight: normal;
     font: bold 190% monospace;
+    text-decoration: underline;
 }
 p{
     color: blanchedalmond;
