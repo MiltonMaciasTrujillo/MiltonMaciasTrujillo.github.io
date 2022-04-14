@@ -1,5 +1,5 @@
 body{background-color: black;padding: 40px;font-family: Arial, Helvetica, sans-serif;}
-.conteiner{
+.container{
     width: 95%;
     max-width: 1000px;
     margin: 0;
@@ -13,6 +13,7 @@ ul{
     list-style: none;
     margin: 0;
     padding: 0;
+    text-align: center;
 }
 ul li{
     display: inline-block;
@@ -21,7 +22,7 @@ ul li a {
     color: blanchedalmond;
     text-decoration: none;
     display: block;
-    padding: 10px 40px;
+    padding: 10px 50px;
 }
 ul li a:hover{
     background-color: lime;
@@ -37,7 +38,7 @@ header{
 h2{
     color: blanchedalmond;
     font-weight: normal;
-    font: bold 170% monospace;
+    font: bold 195% monospace;
 }
 h3{
     color: blanchedalmond;
@@ -51,26 +52,30 @@ p{
     font: bold 160% monospace;
 }
 img{
-    width: 35%;
-    height: 35%;
+    width: 50%;
+    height: 50%;
     float: left;
     padding: 10px;
     border-style: solid;
+    display: block;
 }
 ol li a{
     color: blanchedalmond;
-    text-decoration: none;
     font-style: oblique;
-    font: bold 110% monospace;
+    font: bold 160% monospace;
+    text-decoration: underline;
 
 }
 video{
-    height: 80%;
-    width: 80%;
+    height: 90%;
+    width: 90%;
     border-style: solid;
     padding: 10px;
+    align-items: center;
 }
 footer{
     color: blanchedalmond;
-    
+    text-decoration: underline;
+    font-style: italic;
+    font: bold 110% monospace;
 }
